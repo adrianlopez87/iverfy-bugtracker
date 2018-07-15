@@ -6,4 +6,4 @@ Que información es útil para resolver un bug?
 
 * En que sección ocurre.
 * En que consistee el problema.
-* Imagen donde pueda apreciarse (si el bug lo permite).
+* Imagen donde pueda apreciarse.
