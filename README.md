@@ -4,5 +4,6 @@ Pulse [aquí](https://github.com/adrianlopez87/iverfy-bugtracker/issues/new) par
 Que información es útil para resolver un bug?
 ==============================================
 
-* Información detallada del problema: En que sección ocurre? En que consistee el problema?
-* Imagen donde se aprecie el problema
+* En que sección ocurre.
+* En que consistee el problema.
+* Imagen donde pueda apreciarse, si es posible.
